@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Treatment_Management</string>
+    <string name="title_activity_work_schedule">WorkSchedule</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_test_acitivity">TestAcitivity</string>
+    <string name="home_screen" />
+    <string name="calendar_screen" />
+    <string name="settings_screen" />
+</resources>
