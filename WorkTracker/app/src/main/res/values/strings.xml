@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkTracker</string>
+    <string name="pick_date_time">Select date and time</string>
+</resources>
