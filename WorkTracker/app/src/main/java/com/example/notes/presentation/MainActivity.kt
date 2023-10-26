@@ -84,6 +84,7 @@ class MainActivity : ComponentActivity() {
         val navController = rememberNavController()
         val context = LocalContext.current
         val calendarState = instantiateCalendarState()
+
         RootNavigationGraph(navHostController = navController, context = context, calendarState = calendarState)
         
     }
